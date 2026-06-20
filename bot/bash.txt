@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/json" -d "{"content":"これはテスト投稿です"}" https://discord.com/api/webhooks/1517881474680885488/O18WsAmO81V4yaFYL5X8NYD7V0mq4dV5QudsXn0-vpN4nnTAQWcdZ_FzcUtMofByfOS7
